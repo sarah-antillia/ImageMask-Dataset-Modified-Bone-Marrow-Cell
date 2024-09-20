@@ -5,14 +5,12 @@ The dataset used here has been taken from the github repository:
 <a href="https://github.com/ieee8023/countception/blob/master/MBM_data.zip">
 MBM_data.zip
 </a>
-
 <br><br>
 <b>Download ImageMask-Dataset</b><br>
 You can download our dataset from the google drive 
 <a href="https://drive.google.com/file/d/1_1DuF9idDVu45f8D-CJuWFWckuADzQ-6/view?usp=sharing">
 ImageMask-Dataset-Modified-Bone-Marrow-V2.zip</a>
 <br>
-
 
 <h3>1. Dataset Citation</h3>
 We used the following MBM_dataset to create our ImageMask Dataset:<br>
