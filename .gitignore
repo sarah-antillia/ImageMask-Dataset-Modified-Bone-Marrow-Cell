@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# 2024/09/20
+MBM_data/
+MBM-master-V2/
+MBM-ImageMask-Dataset-V2/
+MBM-ImageMask-Dataset-V2.zip
+
 # Distribution / packaging
 .Python
 build/
