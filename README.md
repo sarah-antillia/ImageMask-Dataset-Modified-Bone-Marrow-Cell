@@ -1,6 +1,6 @@
 <h2>ImageMask-Dataset-Modified-Bone-Marrow-Cell (2024/09/20)</h2>
 
-This is ImageMask Dataset for Modified-Bone-Marrow (MBM).<br>
+This is ImageMask Dataset for Modified-Bone-Marrow (MBM) Cell.<br>
 The dataset used here has been taken from the github repository: 
 <a href="https://github.com/ieee8023/countception/blob/master/MBM_data.zip">
 MBM_data.zip
