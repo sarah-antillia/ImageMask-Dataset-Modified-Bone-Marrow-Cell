@@ -23,11 +23,8 @@ Count-Ception: Counting by Fully Convolutional Redundant Counting (arXiv)
 Joseph Paul Cohen, Genevieve Boucher, Craig A. Glastonbury, Henry Z. Lo, Yoshua Bengio
 
 <a href="https://github.com/ieee8023/countception">https://github.com/ieee8023/countception</a>
-
 <br>
-
 <b>Citation request:</b><br>
-
 Count-ception: Counting by Fully Convolutional Redundant Counting<br>
 JP Cohen, G Boucher, CA Glastonbury, HZ Lo, Y Bengio<br>
 International Conference on Computer Vision (ICCV) Workshop on Bioimage Computing<br>
@@ -42,11 +39,10 @@ year = {2017}<br>
 
 
 <h3>2. ImageMaskDataset Generation</h3>
-Please download the master MBM dataset from <br> 
+Please download the master MBM dataset from 
 <a href="https://github.com/ieee8023/countception/blob/master/MBM_data.zip">
 MBM_data.zip</a>, and expand it in your working directory.
-<br><br>
-It contains 44 image and 44 dots files of 600x600 pixels.<br>
+It contains 44 image and 44 dots files of 600x600 pixels.<br><br>
 <img src="./asset/MBM_data.png" width="1024" height="auto"><br>
 <br>
 Enlarged image and dots files. 
