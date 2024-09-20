@@ -9,7 +9,7 @@ MBM_data.zip
 <b>Download ImageMask-Dataset</b><br>
 You can download our dataset from the google drive 
 <a href="https://drive.google.com/file/d/1_1DuF9idDVu45f8D-CJuWFWckuADzQ-6/view?usp=sharing">
-ImageMask-Dataset-Modified-Bone-Marrow-V2.zip</a>
+MBM-ImageMask-Dataset-V2.zip</a>
 <br>
 
 <h3>1. Dataset Citation</h3>
