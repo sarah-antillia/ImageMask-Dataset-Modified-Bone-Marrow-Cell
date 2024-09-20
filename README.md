@@ -45,8 +45,8 @@ MBM_data.zip</a>, and expand it in your working directory.
 It contains 44 image and 44 dots files of 600x600 pixels.<br><br>
 <img src="./asset/MBM_data.png" width="1024" height="auto"><br>
 <br>
-Enlarged image and dots files. 
-As shown below, the dots file contains center points of the cell nuclei, not an ordinary segmentation mask file. <br>
+<b>Enlarged image and dots files</b><br> 
+As shown below, the dots file contains center-like points of the cell nuclei, not an ordinary segmentation mask file. <br>
 <table>
 <tr>
 <th>image file </th>
